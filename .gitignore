@@ -1,0 +1,6 @@
+# WorkBuddy project data (local only)
+.workbuddy/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
